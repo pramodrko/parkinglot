@@ -25,5 +25,8 @@ npm run build
 npm run lint
 ```
 
+### Note
+Valid numberplate examples are UT 32 DR 6423,MP 09 AB 1234 with spacing
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
