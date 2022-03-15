@@ -5,6 +5,11 @@
 npm install
 ```
 
+### Start json-server
+```
+json-server db/db.json
+```
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
