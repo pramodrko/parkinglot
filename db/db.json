@@ -1,0 +1,141 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "firstName": "Pramod",
+      "lastName": "Raut",
+      "email": "pramod.rko619@gmail.com",
+      "password": "admin123",
+      "vehicalType": "car",
+      "numberPlate": "MP 09 AB 1234"
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "vehicalType": "",
+      "numberPlate": "",
+      "id": 1
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "vehicalType": "",
+      "numberPlate": "",
+      "id": 2
+    }
+  ],
+  "carSlots": [
+    {
+      "parkedUser": "",
+      "parkedTime": "",
+      "numberPlate": "",
+      "id": 1
+    },
+    {
+      "parkedUser": "",
+      "parkedTime": "",
+      "numberPlate": "",
+      "id": 2
+    },
+    {
+      "parkedUser": "",
+      "parkedTime": "",
+      "numberPlate": "",
+      "id": 3
+    },
+    {
+      "parkedUser": "",
+      "parkedTime": "",
+      "numberPlate": "",
+      "id": 4
+    },
+    {
+      "parkedUser": "",
+      "parkedTime": "",
+      "numberPlate": "",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "parkedUser": "",
+      "parkedTime": ""
+    },
+    {
+      "id": 7,
+      "parkedUser": "",
+      "parkedTime": ""
+    },
+    {
+      "id": 8,
+      "parkedUser": "",
+      "parkedTime": ""
+    },
+    {
+      "id": 9,
+      "parkedUser": "",
+      "parkedTime": ""
+    },
+    {
+      "id": 10,
+      "parkedUser": "",
+      "parkedTime": ""
+    }
+  ],
+  "bikeSLots": [
+    {
+      "parkedUser": "",
+      "parkedTime": "",
+      "numberPlate": "",
+      "id": 1
+    },
+    {
+      "parkedUser": "",
+      "parkedTime": "",
+      "numberPlate": "",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "parkedUser": "",
+      "parkedTime": ""
+    },
+    {
+      "id": 4,
+      "parkedUser": "",
+      "parkedTime": ""
+    },
+    {
+      "id": 5,
+      "parkedUser": "",
+      "parkedTime": ""
+    },
+    {
+      "id": 6,
+      "parkedUser": "",
+      "parkedTime": ""
+    },
+    {
+      "id": 7,
+      "parkedUser": "",
+      "parkedTime": ""
+    },
+    {
+      "id": 8,
+      "parkedUser": "",
+      "parkedTime": ""
+    },
+    {
+      "id": 9,
+      "parkedUser": "",
+      "parkedTime": ""
+    },
+    {
+      "id": 10,
+      "parkedUser": "",
+      "parkedTime": ""
+    }
+  ]
+}
